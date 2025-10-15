@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://gaetant15.github.io/FEM-newbie---QR-code-component/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://gaetant15.github.io/FEM-newbie---QR-code-component/)
 
 ## My process
 
